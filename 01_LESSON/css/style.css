@@ -1,10 +1,20 @@
 body {
   font-size: 22px;
 }
+h1,
+h2 {
+  color: aqua;
+}
 
 p {
   color: purple;
 }
 .grey {
   color: grey;
+}
+
+/* rarely use the id selectors */
+#grey1 {
+  color: blue;
+  font-style: italic;
 }
