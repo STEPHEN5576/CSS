@@ -1,5 +1,12 @@
 body {
   font-size: 22px;
+  line-height: 1.9;
+  background-color: papayawhip;
+}
+
+header h1 {
+  font-size: 2em;
+  border: 1 px solid black;
 }
 h1,
 h2 {
@@ -8,6 +15,9 @@ h2 {
 
 p {
   color: purple;
+}
+p span {
+  color: brown;
 }
 .grey {
   color: grey;
